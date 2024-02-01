@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "HUERTA GRANDE",
+        "departamento": "PUNILLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4908722,
+          -31.0752734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "VALLE HERMOSO",
+        "departamento": "PUNILLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.48292119999999,
+          -31.11676869999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "VILLA CARLOS PAZ",
+        "departamento": "PUNILLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4992141,
+          -31.4207828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "CORDOBA",
+        "departamento": "CAPITAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1887761,
+          -31.42008329999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "ONCATIVO",
+        "departamento": "RIO SEGUNDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6820629,
+          -31.9134288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "SANTA ROSA DE CALAMUCHITA",
+        "departamento": "CALAMUCHITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.5358835,
+          -32.071006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "JESUS MARIA",
+        "departamento": "COLON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.09579959999999,
+          -30.9815529
+        ]
+      }
+    }
+  ]
+}
